@@ -19,13 +19,21 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 News
 ======
 \[Oct 2023\] Our paper "Partial persistence of excitation in RKHS embedded adaptive estimation" is published on ***IEEE Transactions on Automatic Control***!
+
 \[Aug 2023\] I joined LISC at Cornell as a postdoc associate.
+
 \[Jun 2023\] I presented two papers on 2023 American Control Conference at San Diego.
+
 \[May 2023\] Our paper "Kernel methods for regression in continuous time over subsets and manifolds" is published on ***Nonlinear Dynamics***!
+
 \[Mar 2023\] Our paper "Sufficient conditions for parameter convergence over embedded manifolds using kernel techniques" is published on ***IEEE Transactions on Automatic Control***!
+
 \[Jun 2022\] I presented one paper on 2022 American Control Conference at Atlanta. 
+
 \[Jun 2022\] Our paper "Adaptive estimation of external fields in reproducing kernel Hilbert spaces" is published on ***International Journal of Adaptive Control and Signal Processing***!
+
 \[Mar 2022\] Our paper "Kernel center adaptation in the reproducing kernel Hilbert space embedding method" is published on ***International Journal of Adaptive Control and Signal Processing***!
+
 \[Jan 2022\] I will teach the undergraduate course "Feedback Control Systems" at Georgia Tech.
 
 
