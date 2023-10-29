@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jia Guo / Site Title"
+title                    : "Jia Guo"
 title_separator          : "-"
 name                     : &name "Jia Guo"
 description              : &description "Postdoc associate at Cornell University"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jia Guo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : #"Postdoc a"
   location         : "Ithaca, NY"
   employer         :
   pubmed           : 
