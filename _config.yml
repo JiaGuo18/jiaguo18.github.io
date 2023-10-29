@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jia Guo"
   avatar           : "JiaGuo2021.jpg"
-  bio              : #"Postdoc a"
+  bio              : "Robotics, control theory, machine learning"
   location         : "Ithaca, NY"
   employer         :
   pubmed           : 
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jia-guo-5b1825157/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
